@@ -1,1 +1,58 @@
-.
+body {
+
+	background-image: url("/assets/Images/background.png")>;
+	width: 960px;
+
+}
+
+header {
+
+	background-color:#ffffff;
+	border-color:#cccccc;
+	font-family: "Georgia", serif;
+	width: 150%;
+
+}
+
+#meBench {
+
+	height: 330px;
+	width: 435px;
+
+}
+
+h1 {
+
+	background-color: #4aaaa5;
+	color: white;
+	width: 215px;
+	text-align: center;
+	padding: 20px;
+	
+}
+
+h2 {
+
+	font-family: Times, serif;
+
+}
+
+p{
+
+	background-color: #ffffff;
+	border-color: #dddddd;
+	font-family: Helvetica, sans-serif;
+
+
+}
+
+footer {
+
+	background-color: #666666;
+	color: white;
+	text-align: center;
+	padding:30px;
+	font-family: "Arial", sans-serif;
+	width: 150%;
+
+}
